@@ -911,8 +911,8 @@ features
 .home-feature {
     padding-bottom: 0px;
     padding-top: 30px;
-    margin-top: -400px;
-    z-index: 9;
+    margin-top: -450px;
+    /* z-index: 9; */
 }
 
 @media (max-width: 991px) {
